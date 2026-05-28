@@ -5,10 +5,20 @@ Maybe you could consider this a portfolio of sorts? Maybe it will turn out more 
 
 **Steam** https://steamcommunity.com/id/Lumi-Platinum/
 
+**Webskating** stay tuned...
 
+**Palworld Master Spreadsheet** [https://sheets.google.com/lumiplatinum/palworldData](https://docs.google.com/spreadsheets/d/15F2SPPDLIGAylmhrjkE3YtLw_eINUCYGSUqOXuLqWPc/edit?usp=sharing)
+- April 2026: Mostly polished, remains to be updated with new releases of course but overall a lot of information i couldn't find easily sortable is here
+
+**Persona Q Datamine Spreadsheets**
+- [datsubpersonagrowth (Google Sheets)](https://docs.google.com/spreadsheets/d/1khxZO6Oj3YBM5MMiFDPxm5u9JpUfC8EdvHU3RFZgId0/edit?usp=sharing): pretty much done
+- [datmainpersonagrowth (Google Sheets)](https://docs.google.com/spreadsheets/d/1dKvvP2XKeyvRgxnKhlCvy8iUFiJgU6hSKGmTl_A5WCY/edit?usp=sharing): pretty much entirely unfinished
+- [datpersonaformat (Google Sheets)](https://docs.google.com/spreadsheets/d/1oZYEQtboHaWv9pMjzM2EEqtNLrJ2zhfoDwfkl5c8UoA/edit?gid=216120900#gid=216120900): done except for some tags (bitflags) i can't identify
+- I also modified some 010 templates for use with Persona Q, you can find those [here (github)](https://github.com/tge-was-taken/010-Editor-Templates/pull/80)
 
 **Ultrakill 3DS Themes** https://themeplaza.art/profile/MiiPlatinum
-- March 2026: Waiting for a few more to be uploaded, and mulling over several more ideas.
+- March 2026: Created and started approval process
+- May 2026: All are uploaded and approved. [Youtube Showcase](https://youtu.be/STTT7-DyTQs)
 
 **Death Stranding Zipline Map** https://www.desmos.com/calculator/snajqbujta
 - December 2025: Nearly complete, though I have since uninstalled the game.
