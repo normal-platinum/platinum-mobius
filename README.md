@@ -5,15 +5,26 @@ Maybe you could consider this a portfolio of sorts? Maybe it will turn out more 
 
 **Steam** https://steamcommunity.com/id/Lumi-Platinum/
 
-**Webskating** stay tuned...
+**Webfishing Mods** stay tuned...
 
-**Palworld Master Spreadsheet** [https://sheets.google.com/lumiplatinum/palworldData](https://docs.google.com/spreadsheets/d/15F2SPPDLIGAylmhrjkE3YtLw_eINUCYGSUqOXuLqWPc/edit?usp=sharing)
+**Mario Kart World**
+- [Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/15K5yYIKc1TfHsyosFJ-THsNttqeVUuRsWA4NwZ4NutY): info on food, outfits, and traffic
+- [Interactive Map](https://normal-platinum.github.io/MKW-Map/): details can be found [here](https://github.com/normal-platinum/MKW-Map)
+
+**Deltarune Spreadsheet** [https://sheets.google.com/lumiplatinum/deltaruneData](https://docs.google.com/spreadsheets/d/1BFmS8xiSGMPIYbPO0pt0NBxyPUogUYdwJC2fHoPJC60)
+- July 2026: Just info about armors for right now. Contains spoilers.
+
+**Persona Master Spreadsheet** [https://sheets.google.com/lumiplatinum/personaData](https://docs.google.com/spreadsheets/d/1eXZihDYMAt5RfcAB0XI-Tk3Wp46ePSzEfNlfyKVYSgE)
+- June 2026: Has info from PQ, P5T, and P5S
+
+**Palworld Master Spreadsheet** [https://sheets.google.com/lumiplatinum/palworldData](https://docs.google.com/spreadsheets/d/15F2SPPDLIGAylmhrjkE3YtLw_eINUCYGSUqOXuLqWPc)
 - April 2026: Mostly polished, remains to be updated with new releases of course but overall a lot of information i couldn't find easily sortable is here
 
 **Persona Q Datamine Spreadsheets**
-- [datsubpersonagrowth (Google Sheets)](https://docs.google.com/spreadsheets/d/1khxZO6Oj3YBM5MMiFDPxm5u9JpUfC8EdvHU3RFZgId0/edit?usp=sharing): pretty much done
-- [datmainpersonagrowth (Google Sheets)](https://docs.google.com/spreadsheets/d/1dKvvP2XKeyvRgxnKhlCvy8iUFiJgU6hSKGmTl_A5WCY/edit?usp=sharing): pretty much entirely unfinished
-- [datpersonaformat (Google Sheets)](https://docs.google.com/spreadsheets/d/1oZYEQtboHaWv9pMjzM2EEqtNLrJ2zhfoDwfkl5c8UoA/edit?gid=216120900#gid=216120900): done except for some tags (bitflags) i can't identify
+- [datsubpersonagrowth (Google Sheets)](https://docs.google.com/spreadsheets/d/1khxZO6Oj3YBM5MMiFDPxm5u9JpUfC8EdvHU3RFZgId0): pretty much done
+- [datmainpersonagrowth (Google Sheets)](https://docs.google.com/spreadsheets/d/1dKvvP2XKeyvRgxnKhlCvy8iUFiJgU6hSKGmTl_A5WCY): pretty much entirely unfinished
+- [datpersonaformat (Google Sheets)](https://docs.google.com/spreadsheets/d/1oZYEQtboHaWv9pMjzM2EEqtNLrJ2zhfoDwfkl5c8UoA): done except for some tags (bitflags) i can't identify
+- [datmyth (Google Sheets)](https://docs.google.com/spreadsheets/d/1Tw1LHSgD_L5BrpR_oacHE6lFchqJm9Gbfq6Ua2OrNyM): also includes PQ2 as well as P4 and P4G
 - I also modified some 010 templates for use with Persona Q, you can find those [here (github)](https://github.com/tge-was-taken/010-Editor-Templates/pull/80)
 
 **Ultrakill 3DS Themes** https://themeplaza.art/profile/MiiPlatinum
